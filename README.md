@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm a Computer Science graduate currently working as Head of IT at a college. My work involves IT operations, infrastructure, and finding practical technology solutions.
 
-<!--
-**mthtclone/mthtclone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside my full-time role, I work on personal software projects and take on freelance opportunities, helping individuals and local businesses with their technology needs.
 
-Here are some ideas to get you started:
+Portfolio: https://mtht.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+* Portfolio: https://mtht.vercel.app/
+* GitHub: https://github.com/mthtclone
+* Email: morrg25@gmail.com
+
+Open to freelance projects and technical collaborations.
